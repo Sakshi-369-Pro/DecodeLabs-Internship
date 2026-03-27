@@ -1,28 +1,34 @@
-# DecodeLabs Internship - Data Analytics 🚀
+# 🚀 DecodeLabs Internship - Data Analytics
 
-## 📊 Project 1: Data Cleaning & Preparation
+## 📌 Overview
+This repository contains my work for the DecodeLabs Data Analytics Internship.  
+The internship focuses on building strong foundations in data cleaning, analysis, and real-world problem solving.
 
-This project focuses on cleaning and preparing raw data for analysis using Python (pandas).
+---
 
-## 🛠️ Tools Used
-- Python
-- pandas
-- VS Code
+## 🗓️ Week 1: Data Cleaning & Preparation 🧹
 
-## 🔍 Tasks Performed
-- Handled missing values
-- Removed duplicates
-- Standardized data formats
-- Generated basic insights
+### 📊 Objective:
+Clean and prepare raw e-commerce dataset for analysis.
 
-## 📈 Key Insights
-- Most used payment method: Online
-- Top referral source: Instagram
+### 🛠️ Tasks Performed:
+- Loaded dataset using pandas
+- Identified missing values
+- Handled missing data in `CouponCode` column
+- Verified and removed duplicate records
+- Standardized categorical data
+- Ensured correct data types
 
-## 📂 Files
-- data.xlsx (raw dataset)
-- cleaned_data.csv (cleaned dataset)
-- clean_data.py (Python script)
+### 📈 Key Insights:
+- Most used payment method: Online (258 orders)
+- Top referral source: Instagram (259 users)
+
+### 📂 Files:
+- `data.xlsx` → Raw dataset  
+- `clean_data.py` → Data cleaning script  
+- `cleaned_data.csv` → Final cleaned dataset  
+
+---
 
 ## 🎯 Outcome
-Clean and structured dataset ready for analysis and visualization.
+This internship is helping me build hands-on experience in data analytics and develop a strong project portfolio for future opportunities.
